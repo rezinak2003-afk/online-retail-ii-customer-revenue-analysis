@@ -1,0 +1,26 @@
+cohort,cohort_size,left_censored,in_month1_eligible,in_month3_eligible,in_month6_eligible,in_matched_set,m0_retention_pct,m1_retention_pct,m2_retention_pct,m3_retention_pct,m4_retention_pct,m5_retention_pct,m6_retention_pct,status
+2009-12,951,True,False,False,False,False,100.0,35.0,33.3,42.5,37.9,36.0,37.6,left-censored (excluded)
+2010-01,368,False,True,True,True,True,100.0,21.5,32.1,31.5,27.2,31.2,26.9,complete for months 1-6
+2010-02,375,False,True,True,True,True,100.0,23.5,22.7,29.3,24.5,19.7,19.2,complete for months 1-6
+2010-03,441,False,True,True,True,True,100.0,19.0,23.1,24.3,23.1,20.4,24.7,complete for months 1-6
+2010-04,294,False,True,True,True,True,100.0,19.0,19.0,16.0,18.4,22.1,27.6,complete for months 1-6
+2010-05,255,False,True,True,True,True,100.0,15.7,16.9,17.6,17.6,25.5,21.2,complete for months 1-6
+2010-06,267,False,True,True,True,True,100.0,17.6,18.7,20.6,23.2,28.5,12.7,complete for months 1-6
+2010-07,185,False,True,True,True,True,100.0,15.7,18.4,29.7,29.2,14.1,11.4,complete for months 1-6
+2010-08,163,False,True,True,True,True,100.0,19.6,28.8,32.5,16.6,11.7,9.8,complete for months 1-6
+2010-09,239,False,True,True,True,True,100.0,23.0,23.4,13.0,8.8,10.5,13.8,complete for months 1-6
+2010-10,375,False,True,True,True,True,100.0,25.9,14.7,12.5,8.8,8.3,13.1,complete for months 1-6
+2010-11,326,False,True,True,True,True,100.0,17.5,9.5,9.5,7.7,8.9,12.9,complete for months 1-6
+2010-12,76,False,True,True,True,True,100.0,9.2,5.3,9.2,11.8,6.6,5.3,complete for months 1-6
+2011-01,72,False,True,True,True,True,100.0,16.7,22.2,19.4,22.2,15.3,15.3,complete for months 1-6
+2011-02,125,False,True,True,True,True,100.0,16.0,16.0,18.4,21.6,16.0,16.0,complete for months 1-6
+2011-03,179,False,True,True,True,True,100.0,17.9,21.8,20.1,22.3,15.1,20.7,complete for months 1-6
+2011-04,106,False,True,True,True,True,100.0,24.5,19.8,19.8,17.9,23.6,17.9,complete for months 1-6
+2011-05,111,False,True,True,True,True,100.0,23.4,24.3,16.2,21.6,20.7,26.1,complete for months 1-6
+2011-06,108,False,True,True,False,False,100.0,23.1,21.3,26.9,20.4,27.8,8.3,incomplete for month 6
+2011-07,101,False,True,True,False,False,100.0,20.8,29.7,27.7,34.7,15.8,,incomplete for month 6
+2011-08,107,False,True,True,False,False,100.0,26.2,29.9,26.2,16.8,,,incomplete for month 6
+2011-09,188,False,True,False,False,False,100.0,27.1,37.8,14.9,,,,incomplete for month 6
+2011-10,221,False,True,False,False,False,100.0,31.7,15.8,,,,,incomplete for month 6
+2011-11,191,False,False,False,False,False,100.0,14.1,,,,,,incomplete for month 6
+2011-12,28,False,False,False,False,False,100.0,,,,,,,incomplete for month 6

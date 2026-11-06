@@ -1,0 +1,10 @@
+segment,customers,revenue,avg_lifetime_revenue,avg_orders,avg_recency_days,revenue_share_pct
+Champions,1383,11648741.61,8422.81,16.23,19.5,68.24
+Loyal,1195,2530241.88,2117.36,5.64,75.9,14.82
+At Risk (high value),287,952348.87,3318.29,8.56,337.8,5.58
+At Risk,424,574942.36,1356.0,3.4,373.3,3.37
+New / Promising,508,442231.17,870.53,1.53,27.0,2.59
+Hibernating,1354,348813.95,257.62,1.23,460.9,2.04
+Lapsed High-Spend,277,342134.19,1235.14,1.65,417.1,2.0
+Potential Loyalist,121,142430.18,1177.11,1.71,105.3,0.83
+Needs Attention,303,87429.56,288.55,1.3,107.4,0.51

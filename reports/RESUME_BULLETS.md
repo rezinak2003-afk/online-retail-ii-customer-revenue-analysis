@@ -1,0 +1,3 @@
+- Analyzed 1.07M raw retail transactions in Python/SQL and quantified two separate revenue leaks: C-prefixed cancellation records equal 7.1% of gross revenue, and 15.2% of gross revenue has no customer ID, so it cannot be attributed to a customer.
+- Cleaned 1.07M raw rows (1.03M after deduplication) into 1.00M product-sale transactions, then segmented 5,852 customers with tie-safe RFM scoring; the top 10% of customers drove 63.9% of revenue.
+- Built a matched-cohort retention analysis across 17 monthly cohorts: 20.6% of customers were active at month 3, falling to 18.5% by month 6, and recommended re-engagement targeting in months 4 to 6.
